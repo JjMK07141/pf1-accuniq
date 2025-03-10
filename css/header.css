@@ -99,7 +99,7 @@ header .updown::before {
   position: absolute;
   right: -50px;
   top: 0;
-  border-top: 2px solid #52beff;
+/*   border-top: 2px solid #52beff; */
   width: 100vw;
 }
 .opacity1{
